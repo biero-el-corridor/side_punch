@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "94097c6372da24ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bb79872d3581324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3f990d8b05295f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STEP/RECO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44065a25ee2b5609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d343ca9b840a9126",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc1235117ea2103c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocol_service/SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af98badfa17cf36c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b398716cd6a30ff1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e33169a856d6940",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0f11bc099b615d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ce4b90ce919e99b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f316cc8e5782dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c050a4f99f7d8b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45851ce4789e6830",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1ab347f1c3450b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0c89a4aa19802f38",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6868ea8a34ed12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebd3e3d291ab6b2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "114b0ddf26ef6f3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f25f8fc489a873a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f7e01b65ad30610",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44065a25ee2b5609",
+  "lastOpenFiles": [
+    "Side_Punch.md",
+    "README.md",
+    "STEP/Audit service and port.md",
+    "Protocol_service/Windows_Active_Directory.md",
+    "STEP/RECO.md",
+    "Pasted image 20221120204031.png",
+    "STEP/Privilege escalations.md",
+    "README.md.md",
+    "script/Parse-IP-with-Port.py.md",
+    "Protocol_service/LDAP.md"
+  ]
+}
