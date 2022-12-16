@@ -1,9 +1,15 @@
-#### website that help for AD / windows audit
 - [OCD mindmap for AD audit (scroll down) ](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg)
 - [WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.](https://wadcoms.github.io/)
+- [Attack Active directory from zero to her (very cool stuff)](https://zer1t0.gitlab.io/posts/attacking_ad)
+- [CVE DATABASE](https://cvepremium.circl.lu/)
 #### Exemple of standardised windows port
 - 139 (smb)
-- 139 (RPC)
+	-  Try eternal blue 
+		- nmap --script smb-vuln IP-RANGE
+	- verify SMB protocol
+		- crackmapexec smb IP-RANGE
+- 135 (RPC)
+	- impacket-rpcdump IP
 - 443 (smb)
 - 445 (smb)
 - 389 (LDAP)
@@ -11,3 +17,15 @@
 		- nmap -n -sV --script "ldap* and not brute" -p "IP" # liste les informations en lien avec le LDAP
 	- Connexions
 		- ldapsearch -x -H LDAP://IP -D 'LDAP-SERVER-NAME\ldap' -w 'PASSWORD' -b "CN=NMAP-LDAP-RESULT,DC=NMAP-LDAP-RESULT"
+- 3389 (RDP)
+	- can try with XfreeRDP on linux  
+		- xfreerdp /u:amdin /p:passwd /v:IP
+	- Detect if vulnerable to [BLUEKEEP or other stuff](https://github.com/robertdavidgraham/rdpscan)
+- 873 (RSYNC)
+	- rsync -av --list-only rsync://IP /
+- 5985 (winRM HTTP) 
+	- Detectec with this nuclei yaml: [[detect-winrm-HTTP]]
+	- [EvilWinRM](https://github.com/Hackplayers/evil-winrm)
+- 5986 (winRM HTTPS)
+	- Detectec with this nuclei yaml: [[detect-winrm-HTTPS]]
+	- [EvilWinRM](https://github.com/Hackplayers/evil-winrm)
