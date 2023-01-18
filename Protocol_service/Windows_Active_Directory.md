@@ -10,8 +10,11 @@
 		- crackmapexec smb IP-RANGE
 - 135 (RPC)
 	- impacket-rpcdump IP
+	- impacket-lookupsid "user:pwd"@IP # if you have valid cred for this one. 
+
 - 443 (smb)
 - 445 (smb)
+	- crackmapexec smb  -u username.txt -p password.txt --shares 10.10.10.149 # donne la capacitée de voir les droit d'acces au share. 
 - 389 (LDAP)
 	-  Reco
 		- nmap -n -sV --script "ldap* and not brute" -p "IP" # liste les informations en lien avec le LDAP
@@ -21,8 +24,7 @@
 	- can try with XfreeRDP on linux  
 		- xfreerdp /u:amdin /p:passwd /v:IP
 	- Detect if vulnerable to [BLUEKEEP or other stuff](https://github.com/robertdavidgraham/rdpscan)
-- 873 (RSYNC)
-	- rsync -av --list-only rsync://IP /
+
 - 5985 (winRM HTTP) 
 	- Detectec with this nuclei yaml: [[detect-winrm-HTTP]]
 	- [EvilWinRM](https://github.com/Hackplayers/evil-winrm)

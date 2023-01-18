@@ -1,2 +1,3 @@
-
+- if trouble with very old cypher implementations. 
+	- ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -oHostKeyAlgorithms=+ssh-rsa USER@IP   
 - [SSH-audit](https://github.com/jtesta/ssh-audit)

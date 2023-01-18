@@ -3,7 +3,7 @@ side_punch and a small framework to help junior cyber security auditors in their
 
 the framework is based on the markdown editor Obsidian. and one of its extensions mindmap
 
-For the good functionning of side_punck, you must install obsidian and the mindmap extension.
+For the good functionning of side_punch, you must install obsidian and the mindmap extension.
 
 https://obsidian.md/
 

@@ -8,3 +8,6 @@
 
 ## [[Persistance]]
 
+## [[Pivoting]]
+
+

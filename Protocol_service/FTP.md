@@ -1,2 +1,0 @@
-- nmap -v -p 21 --script=ftp-anon.nse "IP"
-- use filezilla
