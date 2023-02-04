@@ -1,6 +1,8 @@
 ## [[RESSOURCE]]
 
-## [[RECO]]
+## [[OSINT]]
+
+## [[Reconnaissance]]
 
 ## [[Audit service and port]]
 

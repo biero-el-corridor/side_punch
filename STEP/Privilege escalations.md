@@ -1,6 +1,6 @@
 ## Ressource 
 - [linPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
-
+- [default password database](https://cirt.net/passwords)
 ## Linux 
 - Shell upgrade
 	- if python is install ```python -c 'import pty; pty.spawn("/bin/bash")' ```

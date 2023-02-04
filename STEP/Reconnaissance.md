@@ -1,15 +1,6 @@
 # RECO 
 
-#### Externe
-1) [Shodan](https://www.shodan.io/dashboard)
-	1) corelate the compagny name and the org: 
-	2) search by country ex:  country:"TH"
-2) [DNSdumpster](https://dnsdumpster.com/)
-	1) search for info in [zone transfert](https://hackertarget.com/zone-transfer/)
-3) [Sudomy](https://github.com/screetsec/Sudomy)
-	1) search for subdomain or other info for discover shadow it
 
-### Interne
 #### Naabu 
 ##### Smart
 

@@ -10,7 +10,7 @@
           {
             "id": "3f0f3494bfebacd9",
             "type": "tabs",
-            "dimension": 38.529411764705884,
+            "dimension": 50.44117647058823,
             "children": [
               {
                 "id": "d99f076af335e3cc",
@@ -18,18 +18,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "STEP/Privilege escalations.md",
+                    "file": "STEP/Reconnaissance.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bbd821f3d5b95be2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STEP/OSINT.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "c718fda2888be775",
             "type": "tabs",
-            "dimension": 61.47058823529412,
+            "dimension": 49.55882352941177,
             "children": [
               {
                 "id": "b447340ad6a70c73",
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STEP/Privilege escalations.md",
+                "file": "STEP/OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STEP/Privilege escalations.md",
+                "file": "STEP/OSINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STEP/Privilege escalations.md"
+                "file": "STEP/OSINT.md"
               }
             }
           }
@@ -169,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d99f076af335e3cc",
+  "active": "bbd821f3d5b95be2",
   "lastOpenFiles": [
     "Side_Punch.md",
-    "STEP/RECO.md",
-    "Protocol_service/Windows_Active_Directory.md",
-    "STEP/Audit service and port.md",
-    "STEP/Privilege escalations.md",
-    "Protocol_service/HTTP_HTTPS.md",
-    "Protocol_service/LDAP.md",
-    "Protocol_service/SSH.md",
+    "STEP/Methodologie/RESERSE_BIND SHELL.md",
+    "STEP/OSINT.md",
     "STEP/Persistance.md",
-    "script/detect-winrm-HTTPS.md"
+    "STEP/Privilege escalations.md",
+    "STEP/Reconnaissance.md",
+    "STEP/RESSOURCE.md",
+    "STEP/Audit service and port.md",
+    "Protocol_service/Windows_Active_Directory.md",
+    "STEP/Pivoting.md"
   ]
 }
