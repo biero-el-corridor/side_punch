@@ -1,3 +1,4 @@
+- cool repos [winpwn](https://github.com/S3cur3Th1sSh1t/WinPwn) automations
 - [OCD mindmap for AD audit (scroll down) ](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg)
 - [WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.](https://wadcoms.github.io/)
 - [Attack Active directory from zero to her (very cool stuff)](https://zer1t0.gitlab.io/posts/attacking_ad)
@@ -20,6 +21,10 @@
 		- nmap -n -sV --script "ldap* and not brute" -p "IP" # liste les informations en lien avec le LDAP
 	- Connexions
 		- ldapsearch -x -H LDAP://IP -D 'LDAP-SERVER-NAME\ldap' -w 'PASSWORD' -b "CN=NMAP-LDAP-RESULT,DC=NMAP-LDAP-RESULT"
+- 1443 (mssql) 
+	- [ressource](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/) intéréssante sur le hack mssql
+	- impacket-mssqlclient
+		- enable xp_cmdshell # permet de lancer une comand a partir du mssql
 - 3389 (RDP)
 	- can try with XfreeRDP on linux  
 		- xfreerdp /u:amdin /p:passwd /v:IP

@@ -1,3 +1,4 @@
 - if trouble with very old cypher implementations. 
 	- ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -oHostKeyAlgorithms=+ssh-rsa USER@IP   
 - [SSH-audit](https://github.com/jtesta/ssh-audit)
+- connect to a machine with the private key : ssh -i key.ppk ipp@10.10.110.78 

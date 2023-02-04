@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11963598de883f36",
+        "id": "a8e25fbfb178ec65",
         "type": "split",
         "children": [
           {
-            "id": "6bb79872d3581324",
+            "id": "3f0f3494bfebacd9",
             "type": "tabs",
-            "dimension": 38.970588235294116,
+            "dimension": 38.529411764705884,
             "children": [
               {
-                "id": "af8279537dbe65fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STEP/Audit service and port.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f799583064fdcd41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "script/detect-winrm-HTTP.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "252a88ae4e892f92",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STEP/Audit service and port.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6f5b8a71dbfa6cd2",
+                "id": "d99f076af335e3cc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -60,13 +24,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
-            "id": "3f0f3494bfebacd9",
+            "id": "c718fda2888be775",
             "type": "tabs",
-            "dimension": 61.029411764705884,
+            "dimension": 61.47058823529412,
             "children": [
               {
                 "id": "b447340ad6a70c73",
@@ -206,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f5b8a71dbfa6cd2",
+  "active": "d99f076af335e3cc",
   "lastOpenFiles": [
+    "Side_Punch.md",
+    "STEP/RECO.md",
     "Protocol_service/Windows_Active_Directory.md",
     "STEP/Audit service and port.md",
-    "Side_Punch.md",
-    "README.md",
     "STEP/Privilege escalations.md",
-    "STEP/RECO.md",
-    "STEP/Pivoting.md",
-    "STEP/RESSOURCE.md",
-    "script/detect-winrm-HTTP.md",
+    "Protocol_service/HTTP_HTTPS.md",
+    "Protocol_service/LDAP.md",
+    "Protocol_service/SSH.md",
+    "STEP/Persistance.md",
     "script/detect-winrm-HTTPS.md"
   ]
 }

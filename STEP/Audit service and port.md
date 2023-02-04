@@ -4,6 +4,6 @@
 - [[SSH]]
 - [[HTTP_HTTPS]]
 - [[Windows_Active_Directory]]
-- [[WEB]]
+- [[HTTP_HTTPS]]
 - [[CLOUD]]
 - [[FILE SHARING]]
