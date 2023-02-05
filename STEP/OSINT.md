@@ -4,8 +4,12 @@
 
 ## Web Browser 
 - [shodan](https://www.shodan.io/dashboard) IOT web vrowser
+	- [shodan cheat sheet](https://cheatography.com/sir-slammington/cheat-sheets/shodan/)
 	- corelate the compagny name and the org: 
 	- search by country ex:  country:"TH"
+- [zoomeyes](https://www.zoomeye.org/) chinese shodan
+	-  [zommeye cheat sheet](https://github.com/interference-security/zoomeye-data/blob/master/usage.txt)
+	 - [zommeyes cli](https://github.com/knownsec/ZoomEye-python) use zoomeye in the cli 
 -  [dogpile](http://www.dogpile.com/) Meta data web browser 
 -  [carrot2](https://search.carrot2.org/) clustering web browser 
 - [FTP indexer brower](https://www.searchftps.net/) FTP browser indexer
@@ -28,9 +32,3 @@
 - [DNSdumpster](https://dnsdumpster.com/)
 	- search for info in [zone transfert](https://hackertarget.com/zone-transfer/)
 - [sudomy](http://github.com/screetsec/Sudomy) subdomain enumeration (with API key)
-
-
-## to add at the end
-1) 
-2) [Sudomy](https://github.com/screetsec/Sudomy)
-	1) search for subdomain or other info for discover shadow it
