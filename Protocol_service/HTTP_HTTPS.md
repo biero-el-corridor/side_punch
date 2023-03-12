@@ -29,7 +29,6 @@
 - `wp-includes/` This is the directory where core files are stored, such as certificates, fonts, JavaScript files, and widgets.
 - Get user `http://blog.example.com/?author=1`
 - Get Json `http://blog.example.com/wp-json/`
-
 ### MLRPC 
 
 ```
@@ -48,7 +47,8 @@
 </params>
 </methodCall>
 ```
-
+### PLUGIN
+- exploit [misconfigured CORS](https://vulners.com/hackerone/H1:1187543) in wordpress
 ## Exploitations 
 
 - [web shell generator](https://www.revshells.com/)

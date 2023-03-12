@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e25fbfb178ec65",
+        "id": "d773397ba82eedcf",
         "type": "split",
         "children": [
           {
             "id": "3f0f3494bfebacd9",
             "type": "tabs",
-            "dimension": 70.44117647058825,
+            "dimension": 28.846153846153843,
             "children": [
               {
                 "id": "d99f076af335e3cc",
@@ -30,22 +30,94 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "STEP/Reconnaissance.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d97d7e1c86ab7bbd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STEP/RESSOURCE.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bcb4be5093daf9f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "script/detect_printnightmare.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0acc75702c7b46ce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STEP/Pivoting.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ff75444a410ff637",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Protocol_service/Windows_and_Active_Directory.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "84e19597624c80a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Protocol_service/Windows_and_Active_Directory.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2cc1650e328e1630",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STEP/Privilege escalations.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 6
           },
           {
-            "id": "c718fda2888be775",
+            "id": "e9c466e1cb30231f",
             "type": "tabs",
-            "dimension": 29.558823529411764,
+            "dimension": 71.15384615384616,
             "children": [
               {
-                "id": "b447340ad6a70c73",
+                "id": "357fa450528c5619",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -121,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Protocol_service/Windows_and_Active_Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Protocol_service/Windows_and_Active_Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Protocol_service/Windows_and_Active_Directory.md"
               }
             }
           }
@@ -182,17 +254,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbd821f3d5b95be2",
+  "active": "84e19597624c80a8",
   "lastOpenFiles": [
-    "IMG2.png",
-    "README.md",
-    "IMG1.png",
-    "Side_Punch.md",
-    "STEP/RESSOURCE.md",
-    "Protocol_service/Windows_Active_Directory.md",
     "STEP/Audit service and port.md",
-    "Pasted image 20230119114100.png",
+    "Side_Punch.md",
+    "Protocol_service/Windows_and_Active_Directory.md",
+    "Protocol_service/AD_GROUP_EXPLOIT.md",
+    "Protocol_service/HTTP_HTTPS.md",
     "STEP/OSINT.md",
-    "STEP/Methodologie/RESERSE_BIND SHELL.md"
+    "STEP/Pivoting.md",
+    "Protocol_service/LDAP.md",
+    "STEP/ACTIVE DIRECTORY.md",
+    "script/detect_printnightmare.md",
+    "script/Parse-IP-with-Port.py.md",
+    "script/test rpcclient.md",
+    "README.md",
+    "Protocol_service/FILE SHARING AND DATABASE.md",
+    "Protocol_service/CLOUD.md"
   ]
 }

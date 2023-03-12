@@ -10,9 +10,9 @@ https://obsidian.md/
 
 https://github.com/lynchjames/obsidian-mind-map
 
-[[./IMG2.png]]
+[[IMG2.png]]
 
-[[./IMG1.png]]
+[[IMG1.png]]
 
 ## side_punch (Usage)
 

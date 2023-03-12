@@ -17,7 +17,7 @@
 
 > cyberchef | parse IP range > put IP in listIP.txt
 
-> naabu -l listIP.txt | tee result-naabu-scan.txt
+> naabu -v -l listIP.txt | tee result-naabu-scan.txt
 
 > [[Parse-IP-with-Port.py]] -f result-naabu-scan.txt 
 
