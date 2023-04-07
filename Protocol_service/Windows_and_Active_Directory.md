@@ -8,6 +8,8 @@
 - [WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.](https://wadcoms.github.io/)
 - [Attack Active directory from zero to her (very cool stuff)](https://zer1t0.gitlab.io/posts/attacking_ad)
 - [CVE DATABASE](https://cvepremium.circl.lu/)
+- [list of ANSSI of potential AD Controle Point](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html)
+
 #### Exemple of standardised windows port
 - 139 (smb)
 	-  Try eternal blue 
